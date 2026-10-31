@@ -1,5 +1,7 @@
 # QuietLeak (hackathon prototype)
 
+   **Live demo:** https://quietleak.streamlit.app
+
 ![tests](../../actions/workflows/tests.yml/badge.svg)
 
 Finds recurring payments in **fictional** bank data, explains why each was flagged, estimates yearly cost,
